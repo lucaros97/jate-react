@@ -1,4 +1,4 @@
-# JATE <3 React
+# JATE ❤️ React
 
 1. Download the project
 2. Install JATE with jate-cli with command `jate`
